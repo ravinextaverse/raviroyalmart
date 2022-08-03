@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raviroyalmart
-- 👀 I’m interested in flutter, nodejs
-- 🌱 I’m currently learning blockchain, threejs
+- 👀 I’m interested in flutter, dart, nodejs, javascript
+- 🌱 I’m currently learning blockchain, threejs, nodejs, flutter
 - 📫 How to reach me ravikumar@royalmartsupermarket.com
 
 <!---
